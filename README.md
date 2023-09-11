@@ -124,8 +124,3 @@ In the example above, it will check the `test.py` file for errors and open relev
 ## Conclusion
 
 The `StackOverflowSearcher` class is a handy tool for any Python developer, helping them to quickly identify and find solutions to script errors directly from Stack Overflow.
-
-```
-
-You can copy and paste the above markdown into a `README.md` file for your codebase.
-```
